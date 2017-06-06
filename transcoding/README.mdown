@@ -2,12 +2,15 @@
 
 ### 1.1 入口文件
 
-``` ffmpeg.js
+
+```
+    ffmpeg.js
 ```
 
 ### 1.2 运行
 
-``` 在cmd中运行 node ffmpeg.js
+```
+    在cmd中运行 node ffmpeg.js
 ```
 
 
